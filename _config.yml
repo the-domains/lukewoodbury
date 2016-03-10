@@ -1,0 +1,28 @@
+name: lukewoodbury
+favicon: null
+layout_spectrum: 0.33186508412472904
+typography_spectrum: 0.26251674722880125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9780892105773091
+  lightness: 0.6821310548111796
+  saturation: 0.8142176147084683
+  rhythmicContrast: 0.23096702061593533
+purpose: []
